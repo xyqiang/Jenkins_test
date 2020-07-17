@@ -1,0 +1,92 @@
+{
+  "uid" : "4c8d9929e763575c",
+  "name" : "test_add[0.1-0.1-0.2]",
+  "fullName" : "calc_test.TestCalc#test_add",
+  "historyId" : "4c29b56f9272de196c3b7b002e6a9ecb",
+  "time" : {
+    "start" : 1594832162246,
+    "stop" : 1594832162246,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1594832162236,
+      "stop" : 1594832162236,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1594832162264,
+      "stop" : 1594832162264,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "calc_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "XYQdeMBP.lan"
+  }, {
+    "name" : "thread",
+    "value" : "3561-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "calc_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "0.1"
+  }, {
+    "name" : "b",
+    "value" : "0.1"
+  }, {
+    "name" : "c",
+    "value" : "0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c8d9929e763575c.json",
+  "parameterValues" : [ "0.1", "0.1", "0.2" ]
+}
